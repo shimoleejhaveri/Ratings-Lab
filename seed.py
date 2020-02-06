@@ -83,7 +83,6 @@ def load_ratings():
 
 
 
-
 def set_val_user_id():
     """Set value for the next user_id after seeding database"""
 
